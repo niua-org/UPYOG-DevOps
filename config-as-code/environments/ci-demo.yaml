@@ -1,5 +1,5 @@
 global:
-  domain: <Domain> ## Add your Domain Name Eg: site.mydomain.com
+  domain: niuatt-cicd.niua.in ## Add your Domain Name Eg: site.mydomain.com
   setup: fullsetup
   
 cluster-configs:
